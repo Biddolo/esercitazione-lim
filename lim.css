@@ -1,0 +1,64 @@
+body{background-image: url(background.jpg);
+    background-size: cover;
+  background-repeat: no-repeat;
+;}
+h1{color: lime;
+  font-family: sans-serif;
+margin: auto;}
+body > div{background-color:rgba(0,0,0, 0.5);
+  width: 1200px;
+  height: 900px;
+  margin: auto;
+  margin-top: 50px;
+  text-align: center;
+  border-radius: 30px;
+  margin-bottom: 100px
+}
+img{width: 300px;
+margin-top: 10%}
+nav > div{background-color: lime;
+height: 50px;
+width: 900px;
+margin-left: auto;
+margin-right: auto;
+margin-top: 0px;
+margin-bottom: 30px;
+}
+div > button{text-align: center;
+margin-top: 15px;}
+h2, h3 , span{display: inline-block;margin: inherit;
+  color: white;
+
+}
+.half{background-color:orange;
+  margin-top:inherit;
+  margin-bottom: 30px;
+width: 400px;
+height: 30px;
+margin-left: 50px;
+border-radius:5px;
+border-color: orange;}
+.name-patt{text-align: left;
+  padding-left: 50px
+}
+.full{background-color:green;
+  margin-top:inherit;
+  margin-bottom: 30px;
+width: 600px;
+height: 30px;
+margin-left: 50px;
+border-radius:5px;
+border-color: green;}
+.name-patt{text-align: left;
+  padding-left: 50px
+}.empty{background-color:red;
+  margin-top:inherit;
+  margin-bottom: 30px;
+width: 200px;
+height: 30px;
+margin-left: 50px;
+border-radius:5px;
+border-color: red;}
+.name-patt{text-align: left;
+  padding-left: 50px
+}
